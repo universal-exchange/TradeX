@@ -1,7 +1,7 @@
 # TradeX
-V0.1.0-Beta Build 20240910
+V0.5.0-Beta Build 20260812
 
-最新版本：[C++](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin/tradex_py/0.1.0)、[JavaScript](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin/tradex_js/0.1.0)
+最新版本：[C++](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin)、[Python](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin/tradex_py/0.5.0)、[JavaScript](https://github.com/universal-exchange/tradex/tree/main/exe/windows/bin/tradex_js/0.5.0)
 
 ### 项目概述
 交易服务特性：
@@ -58,4 +58,4 @@ npm install cyberx-js
 ### 联系作者
 WeChat：xrd_ustc，~~QQ：277195007~~，~~E-mail：xrd@ustc.edu~~
 
-© 2012-2024 Rendong Xu All Rights Reserved.
+© 2012-2026 Rendong Xu All Rights Reserved.
